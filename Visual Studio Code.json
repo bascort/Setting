@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "files.autoSave": "afterDelay",
+    "go.gocodeAutoBuild": true,
+    "editor.codeActionsOnSaveTimeout": 150,
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 100,
+    "files.autoSaveDelay": 100,
+    "go.useLanguageServer": true,
+    "extensions.ignoreRecommendations": true,
+    "go.autocompleteUnimportedPackages": true,
+    "editor.hover.delay": 150,
+    "editor.formatOnType": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.labelFormat": "short"
+}
